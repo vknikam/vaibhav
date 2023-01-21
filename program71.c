@@ -1,0 +1,1 @@
+//accept n numbers from user and return average of that numbers
